@@ -1,0 +1,13 @@
+{
+  "name": "@paynodo/demo-brazil-v2-nodejs",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "PayNodo Brazil V2 Node.js merchant backend demo integration",
+  "scripts": {
+    "start": "node src/demo.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
